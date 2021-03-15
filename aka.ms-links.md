@@ -14,6 +14,7 @@ Azure portal | `https://aka.ms/azureportal`
 Azure cost management + billing | `https://aka.ms/costmanagement`
 Azure pricing calculator | `https://aka.ms/azurecalc`
 Azure linux VM pricing | `https://aka.ms/azurecost`
+Windows releases | `https://aka.ms/Windows/ReleaseInfo`
 
 
 __Unformatted__
@@ -69,4 +70,8 @@ Azure pricing calculator
 Azure linux VM pricing 
 
 `https://aka.ms/azurecost`
+
+Windows releases
+
+`https://aka.ms/Windows/ReleaseInfo`
 
