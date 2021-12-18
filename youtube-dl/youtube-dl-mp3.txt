@@ -1,0 +1,1 @@
+youtube-dl.exe --rm-cache-dir --extract-audio --audio-format mp3 --audio-quality 0 --ffmpeg-location "ffmpeg\bin" -o %(title)s.%(ext)s <url>
