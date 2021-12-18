@@ -1,0 +1,13 @@
+[Unit]
+Description=SERVICEDESCRIPTION
+After=multi-user.target
+
+[Service]
+User=SERVICEUSER
+Group=SERVICEGROUP
+Type=simple
+WorkingDirectory=/path/to/working/directory
+ExecStart=/usr/local/bin/node /path/to/main.js
+
+[Install]
+WantedBy=multi-user.target
