@@ -15,6 +15,7 @@ Azure cost management + billing | `https://aka.ms/costmanagement`
 Azure pricing calculator | `https://aka.ms/azurecalc`
 Azure linux VM pricing | `https://aka.ms/azurecost`
 Windows releases | `https://aka.ms/Windows/ReleaseInfo`
+Bitlocker recovery key | `https://aka.ms/aadrecoverykey`
 
 
 __Unformatted__
@@ -75,3 +76,6 @@ Windows releases
 
 `https://aka.ms/Windows/ReleaseInfo`
 
+Bitlocker recovery key
+
+`https://aka.ms/aadrecoverykey`
