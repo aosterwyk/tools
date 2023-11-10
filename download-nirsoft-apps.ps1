@@ -17,5 +17,5 @@ get-childitem -path ".\pads" -filter "*.xml" | foreach-object {
     $fileName = $downloadURLString.split('/')[-1]
     
     write-host "Downloading $downloadName ($($downloadURLString))"
-    invoke-webrequest -uri $downloadURLString -outfile ".\downloaded\$($fileName)"
+    invoke-webrequest -uri $downloadURLString -outfile "$($downloadPath)\$($fileName)"
 }
